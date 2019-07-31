@@ -8,4 +8,4 @@ JSNativo
 
 JSES6
 
-`http://apitabs.creacodigos.com/api.php/`
+`http://apitabs.creacodigos.com/cliente/`

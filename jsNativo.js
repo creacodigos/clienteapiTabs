@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", function(e) {
 
-    var apiUrl =  'http://apitabs.creacodigos.com/api.php/'; 
+    var apiUrl =  'http://apitabs.creacodigos.com/'; 
     //var apiUrl =  'http://localhost:8888/ApiRestFul/api.php/'; 
     var cabecera_tabla ="<tr><th>ID</th><th>Titulo</th><th>Artista</th><th>Acordes</th><th>editar</th><th>borrar</th></tr>";
     var tablaListado = document.getElementsByClassName("table")[0];
