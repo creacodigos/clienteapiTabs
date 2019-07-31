@@ -8,7 +8,7 @@
 */
 $(document).ready(function(){
 
-    var apiUrl =  'http://apitabs.creacodigos.com/api.php/'; 
+    var apiUrl =  'http://apitabs.creacodigos.com/'; 
     var cabecera_tabla ="<tr><th>ID</th><th>Titulo</th><th>Artista</th><th>Acordes</th><th>editar</th><th>borrar</th></tr>";
     // Obtener partituras
     function getProductos(){

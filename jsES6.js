@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", e => {
 
-    const apiUrl =  'http://apitabs.creacodigos.com/api.php/'; 
+    const apiUrl =  'http://apitabs.creacodigos.com/'; 
     const cabecera_tabla ="<tr><th>ID</th><th>Titulo</th><th>Artista</th><th>Acordes</th><th>editar</th><th>borrar</th></tr>";
     const tablaListado = document.getElementsByClassName("table")[0];
     const botonDelete  = document.getElementsByClassName("delete");
